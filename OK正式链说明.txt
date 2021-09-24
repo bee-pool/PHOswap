@@ -1,0 +1,31 @@
+OK正式网
+https://www.oklink.com/okexchain
+
+合约持有人
+0x203f0151572C6EF15020b0a27e87Bf9A9324e7FF
+
+手续费收取地址
+
+
+WETH地址(OKT)
+0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15
+
+Factory地址
+0x7d72a61f5829b3cb271e6ff4c126f22bd7ffe166
+https://www.oklink.com/okexchain/address/0x7d72a61f5829b3cb271e6ff4c126f22bd7ffe166
+
+
+Router02地址 (部署前需要修改init code)
+0xcd4f01b62480926cc4614ea44fb1f1e5f449485e
+https://www.oklink.com/okexchain/address/0xcd4f01b62480926cc4614ea44fb1f1e5f449485e
+
+
+手续费统计地址
+
+
+PHO币 需要设置手续费统计地址
+
+
+
+
+
