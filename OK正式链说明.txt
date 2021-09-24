@@ -20,12 +20,6 @@ Router02地址 (部署前需要修改init code)
 https://www.oklink.com/okexchain/address/0xcd4f01b62480926cc4614ea44fb1f1e5f449485e
 
 
-手续费统计地址
-
-
-PHO币 需要设置手续费统计地址
-
-
 
 
 
